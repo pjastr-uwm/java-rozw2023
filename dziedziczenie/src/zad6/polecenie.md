@@ -1,0 +1,1 @@
+6.  Stwórz klasę `Calculator` z metodą `add`, która przyjmuje dwa argumenty typu `int` i zwraca ich sumę. Następnie stwórz klasę potomną `ExtendedCalculator`, która nadpisuje metodę `add` w taki sposób, by przyjmowała trzy argumenty typu `int` i zwracała ich sumę. Zastanów się, czy to faktycznie nadpisywanie metody, czy może coś innego.
