@@ -1,0 +1,1 @@
+1. Stwórz prostą klasę generyczną `Box`, która może przechowywać obiekt dowolnego typu. Klasa powinna zawierać metodę `set`, aby ustawić obiekt, oraz metodę `get`, aby go pobrać.

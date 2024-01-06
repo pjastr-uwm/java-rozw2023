@@ -1,0 +1,1 @@
+3. Stwórz klasę generyczną `Counter<T>`, która będzie zliczać ilość dodanych elementów określonego typu. Klasa powinna mieć metodę `add(T element)`, która dodaje element do wewnętrznej struktury, oraz metodę `getCount()`, która zwraca liczbę dodanych elementów.
