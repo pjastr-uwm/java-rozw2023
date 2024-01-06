@@ -1,0 +1,1 @@
+Napisz klasę `Osoba` z polami `imie` (`String`), `wiek` (`int`) i `wzrost` (`double`). Napisz klasę implementującą interfejs `Comparator`, która porównuje osoby na podstawie wieku. Stwórz tablicę 5 osób i posortuj ją według wieku.
